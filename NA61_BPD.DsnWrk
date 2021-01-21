@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Flex_PCB\Flex_PCB\Flex_PCB.PrjPcb
+[Project2]
+ProjectPath=..\PSD_FEE\MPPC_board\MPPC_board.PrjPcb
