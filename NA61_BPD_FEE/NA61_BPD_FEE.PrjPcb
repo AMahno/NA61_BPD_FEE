@@ -224,6 +224,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NRJEKGMR
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for NA61_BPD_FEE\Design Rule Check - FEE_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
